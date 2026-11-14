@@ -2,7 +2,7 @@
 
 > A Hello World application to get started with PhoneGap Build with Pushwoosh push notifications integrated (iOS, Android).
 >
-> [mobiliário urbano](https://www.grupoamop.com)
+> [street furniture](https://www.grupoamop.com/en/brands/urban))
 
 ## Usage
 
